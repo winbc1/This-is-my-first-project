@@ -9,5 +9,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
         salesHeader: Record "Sales Header";
     begin
         Message('App published: Hello world');
+
     end;
 }
