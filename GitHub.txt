@@ -1,0 +1,31 @@
+vs code source code compare tools
+---------xxx----
+
+https://marketplace.visualstudio.com/items?itemName=DevartSoftware.CodeCompare#:~:text=Code%20Compare%20is%20an%20advanced,Git%2C%20Mercurial%2C%20and%20Perforce.
+
+-------xxx-----
+Working with GitHub in VS Code
+https://code.visualstudio.com/docs/editor/github
+-----
+https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code
+---
+
+https://www.youtube.com/watch?v=Fk12ELJ9Bww
+---
+
+vs code connect to github
+----xxxx---
+
+MS-L04\NILESH.KENJALE
+
+winbc1
+wintest221@gmail.com
+Lot@123456
+---
+
+Local folder location path:
+
+C:\Users\nilesh.kenjale\Documents\AL\test1
+----
+
+https://www.youtube.com/watch?v=2oihkInZ880
